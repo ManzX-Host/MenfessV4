@@ -1,4 +1,3 @@
-
 const fs = require('fs');
 
 exports.status_Connection = async (conn, update, connectToWhatsApp) => {  
